@@ -1,6 +1,6 @@
 # magic8ball
 
-A new Flutter application.
+Simple Flutter application.
 
 ## Getting Started
 
